@@ -1,0 +1,8 @@
+attribute,value,source
+contract_unit_mmbtu,10000,CME_rulebook_ch220
+price_quotation,USD_per_MMBtu,CME_rulebook_ch220
+tick_size_usd_mmbtu,0.001,CME_rulebook_ch220
+tick_value_usd_per_contract,10.0,CME_rulebook_ch220
+settlement,physical_henry_hub,CME_rulebook_ch220
+listed_months,all_calendar_months,CME_rulebook_ch220
+last_trade_rule,3_business_days_before_first_of_delivery_month,CME_rulebook_ch220

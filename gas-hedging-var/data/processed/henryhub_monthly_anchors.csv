@@ -1,0 +1,8 @@
+period,price_usd_mmbtu,kind,source
+2024-01,3.25,monthly_avg,EIA_TIE_64184
+2024-03,1.51,monthly_avg_alltime_low,EIA_TIE_64184
+2024-04,1.62,monthly_avg,EIA_TIE_64184
+2024-05,2.14,monthly_avg,EIA_TIE_64184
+2023-05,2.19,monthly_avg_low,EIA_TIE_61183
+2025-01,9.86,daily_high_2025,EIA_TIE_66984
+2025-min,2.65,daily_low_2025,EIA_TIE_66984

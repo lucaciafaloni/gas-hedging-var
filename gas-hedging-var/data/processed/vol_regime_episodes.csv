@@ -1,0 +1,6 @@
+episode,period,description,approx_daily_peak_usd,regime
+covid_demand_collapse,2020-06,COVID demand collapse; Henry Hub multi-year lows ~1.5,1.50,stressed_low
+winter_storm_uri,2021-02,Winter Storm Uri; Henry Hub daily spot record spike,23.00,stressed_high
+summer_2022_peak,2022-08,LNG/geopolitics; Henry Hub ~9-10,9.85,stressed_high
+record_low_2024,2024-03,All-time low monthly avg 1.51,1.49,stressed_low
+polar_vortex_2025,2025-01,Cold snap; regional citygate spikes; HH daily to ~9.86,9.86,stressed_high

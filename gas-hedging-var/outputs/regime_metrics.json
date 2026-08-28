@@ -1,0 +1,11 @@
+{
+  "ml_state_auc": 0.858,
+  "hmm_state_auc": 0.899,
+  "garch_state_auc": 0.84,
+  "ml_earlywarn_auc": 0.767,
+  "garch_earlywarn_auc": 0.749,
+  "mean_lead_days_ml_vs_garch": 1.06,
+  "preemptive_alarm_rate_ml": 0.69,
+  "preemptive_alarm_rate_garch": 0.39,
+  "n_onsets": 36
+}

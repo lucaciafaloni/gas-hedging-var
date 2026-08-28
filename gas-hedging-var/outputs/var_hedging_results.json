@@ -1,0 +1,42 @@
+{
+  "var_table": {
+    "VaR_normal_95": 1402817.0940377829,
+    "VaR_hist_95": 918900.7349974434,
+    "VaR_garch_95": 949983.6628364199,
+    "VaR_normal_99": 1984030.9866546118,
+    "VaR_hist_99": 2844199.563283347,
+    "VaR_garch_99": 1688836.3858010988
+  },
+  "backtest": {
+    "garch": {
+      "expected_rate": 0.01,
+      "observed_rate": 0.0128,
+      "breaches": 29,
+      "n": 2264,
+      "max_breaches_in_10d": 3,
+      "kupiec_LR": 1.658,
+      "kupiec_p": 0.198
+    },
+    "regime_aware": {
+      "expected_rate": 0.01,
+      "observed_rate": 0.0071,
+      "breaches": 16,
+      "n": 2264,
+      "max_breaches_in_10d": 1,
+      "kupiec_LR": 2.192,
+      "kupiec_p": 0.139
+    }
+  },
+  "hedge": {
+    "min_var_hedge_contracts": 430.0,
+    "var99_unhedged": 2844200.0,
+    "var99_static_hedge": 1232036.0,
+    "var99_dynamic_hedge": 1319575.0,
+    "var_reduction_static_pct": 56.7,
+    "var_reduction_dynamic_pct": 53.6,
+    "es99_unhedged": 5890038.0,
+    "es99_static_hedge": 1833456.0,
+    "es99_dynamic_hedge": 1667581.0,
+    "hedge_effectiveness_r2": 0.875
+  }
+}
